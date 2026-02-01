@@ -1,1 +1,11 @@
+.vscode/
+.vs/
+.pio/
+build/
+dist/
+*.log
+*.tmp
+secrets.h
+wifi_config.h
+*.env
 
