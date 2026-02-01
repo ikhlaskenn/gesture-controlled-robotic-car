@@ -33,7 +33,7 @@ gesture-controlled-robotic-car/
 ├── media/         # Images and demo media
 ├── .gitignore
 └── README.md
-
+```
 
 ## Hardware Components
 - ESP32 DevKit (2×)
