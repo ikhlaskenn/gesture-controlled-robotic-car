@@ -24,14 +24,13 @@ Hand gestures are detected using an MPU6050 inertial measurement unit and transl
 | R | Turn right |
 | S | Stop |
 
-## Repository Structure
-
 gesture-controlled-robotic-car/
 ├── transmitter/   # Hand controller firmware
 ├── receiver/      # Robotic car firmware
 ├── media/         # Images and demo media
 ├── .gitignore
 └── README.md
+
 
 ## Hardware Components
 - ESP32 DevKit (2×)
@@ -47,7 +46,9 @@ gesture-controlled-robotic-car/
 4. Move the hand to control the robot direction
 
 ## Media
-Images material are available in the `media/` folder.
+
+![System Block Diagram](media/system_block_diagram.png)
+
 
 ## Notes
 - Gesture thresholds and filter parameters were tuned experimentally
