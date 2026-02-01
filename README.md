@@ -24,7 +24,7 @@ Hand gestures are detected using an MPU6050 inertial measurement unit and transl
 | R | Turn right |
 | S | Stop |
 
-gesture-controlled-robotic-car/
+## gesture-controlled-robotic-car/
 ├── transmitter/   # Hand controller firmware
 ├── receiver/      # Robotic car firmware
 ├── media/         # Images and demo media
